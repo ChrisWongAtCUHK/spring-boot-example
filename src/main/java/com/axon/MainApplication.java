@@ -1,4 +1,4 @@
-package com.rabbitmq;
+package com.axon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
